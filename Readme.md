@@ -1,13 +1,3 @@
-<!-- # explain how you can make repo locally and publish it to your github
-## git init => to initialize new repo
-## git status => see if there any updates in your repo (untracked files)
-## git add => Stages the selected files to the next commit
-## git commit => Submits the current staged files to the project history (save files in git)
-## git push => upload files to remote repository (GitHub)
-1. **Create a new directory for your project:**
-  
-## git init => to initialize new repo
-   ```bash  -->
 # How to Create and Upload a Repository to GitHub
 
 ## Steps to Create a Local Repository
