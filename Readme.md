@@ -20,7 +20,6 @@
    git commit
 ## Steps to Upload the Repository to GitHub
 1. **Create a new repository on GitHub**
-
 2. **Link the local repository to the GitHub repository**
    ```bash
    git remote add (link repo in github)
