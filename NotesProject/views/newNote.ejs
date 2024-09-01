@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <%- include('./partials/header.ejs') %>
+
+<body>
+    <form method="post" action="/newNote">
+        <label for="text">Add New Note</label>
+        <input type="text" name="note">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>

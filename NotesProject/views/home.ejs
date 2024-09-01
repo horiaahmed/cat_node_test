@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <%- include('./partials/header.ejs') %>
+<body>
+    <h1>Notes</h1>
+  <% notes.forEach(item => { %>
+       <p><%= item.note %></p>
+      <% }) %>
+
+    <a href="newNote">Add New Note</a>
+</body>
+</html>
